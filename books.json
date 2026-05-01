@@ -1,0 +1,145 @@
+[
+  {
+    "bookId": 1,
+    "categoryId": 1,
+    "categoryName": "Fantasy Series",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "9780590353427",
+    "price": 24.99,
+    "image": "harry_potter1.jpg",
+    "readNow": 1
+  },
+  {
+    "bookId": 2,
+    "categoryId": 1,
+    "categoryName": "Fantasy Series",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "isbn": "9780439064873",
+    "price": 24.99,
+    "image": "harry_potter2.jpg",
+    "readNow": 0
+  },
+  {
+    "bookId": 3,
+    "categoryId": 1,
+    "categoryName": "Fantasy Series",
+    "title": "Percy Jackson & The Lightning Thief",
+    "author": "Rick Riordan",
+    "isbn": "9780786838653",
+    "price": 19.99,
+    "image": "percy_jackson1.jpg",
+    "readNow": 1
+  },
+  {
+    "bookId": 4,
+    "categoryId": 1,
+    "categoryName": "Fantasy Series",
+    "title": "The Magic Tree House: Dinosaurs Before Dark",
+    "author": "Mary Pope Osborne",
+    "isbn": "9780679824114",
+    "price": 8.99,
+    "image": "magic_tree_house1.jpg",
+    "readNow": 0
+  },
+  {
+    "bookId": 5,
+    "categoryId": 2,
+    "categoryName": "Diary & Humor",
+    "title": "Diary of a Wimpy Kid",
+    "author": "Jeff Kinney",
+    "isbn": "9780810993136",
+    "price": 14.99,
+    "image": "wimpy_kid1.jpg",
+    "readNow": 1
+  },
+  {
+    "bookId": 6,
+    "categoryId": 2,
+    "categoryName": "Diary & Humor",
+    "title": "Diary of a Wimpy Kid: Rodrick Rules",
+    "author": "Jeff Kinney",
+    "isbn": "9780810994737",
+    "price": 14.99,
+    "image": "wimpy_kid2.jpg",
+    "readNow": 0
+  },
+  {
+    "bookId": 7,
+    "categoryId": 2,
+    "categoryName": "Diary & Humor",
+    "title": "Dork Diaries: Tales from a Not-So-Fabulous Life",
+    "author": "Rachel Ren\u00e9e Russell",
+    "isbn": "9781416980063",
+    "price": 12.99,
+    "image": "dork_diaries1.jpg",
+    "readNow": 0
+  },
+  {
+    "bookId": 8,
+    "categoryId": 3,
+    "categoryName": "Early Readers & Adventure",
+    "title": "Rainbow Magic: Ruby the Red Fairy",
+    "author": "Daisy Meadows",
+    "isbn": "9780439320450",
+    "price": 6.99,
+    "image": "rainbow_magic1.jpg",
+    "readNow": 1
+  },
+  {
+    "bookId": 9,
+    "categoryId": 3,
+    "categoryName": "Early Readers & Adventure",
+    "title": "Rainbow Magic: Sky the Blue Fairy",
+    "author": "Daisy Meadows",
+    "isbn": "9780439320467",
+    "price": 6.99,
+    "image": "rainbow_magic2.jpg",
+    "readNow": 0
+  },
+  {
+    "bookId": 10,
+    "categoryId": 3,
+    "categoryName": "Early Readers & Adventure",
+    "title": "Geronimo Stilton: Lost Treasure of the Emerald Eye",
+    "author": "Geronimo Stilton",
+    "isbn": "9780439559638",
+    "price": 7.99,
+    "image": "geronimo_stilton1.jpg",
+    "readNow": 1
+  },
+  {
+    "bookId": 11,
+    "categoryId": 4,
+    "categoryName": "Graphic Novels & Illustrated",
+    "title": "Dog Man",
+    "author": "Dav Pilkey",
+    "isbn": "9780545581608",
+    "price": 12.99,
+    "image": "dog_man1.jpg",
+    "readNow": 1
+  },
+  {
+    "bookId": 12,
+    "categoryId": 4,
+    "categoryName": "Graphic Novels & Illustrated",
+    "title": "Captain Underpants and the Perilous Plot of Professor Poopypants",
+    "author": "Dav Pilkey",
+    "isbn": "9780439049986",
+    "price": 11.99,
+    "image": "captain_underpants1.jpg",
+    "readNow": 0
+  },
+  {
+    "bookId": 13,
+    "categoryId": 4,
+    "categoryName": "Graphic Novels & Illustrated",
+    "title": "Amulet: The Stonekeeper",
+    "author": "Kazu Kibuishi",
+    "isbn": "9780439846813",
+    "price": 14.99,
+    "image": "amulet1.jpg",
+    "readNow": 0
+  }
+]
